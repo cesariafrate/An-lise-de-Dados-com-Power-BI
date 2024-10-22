@@ -23,7 +23,9 @@ Neste projeto, utilizei o tutorial "Power BI para Iniciantes" do DataCamp para a
 Descrição do que a visualização mostra.
 ![image](https://github.com/user-attachments/assets/aefa52da-eb05-49e7-9291-94f4c601fddc)
 
+A imagem mostra um dashboard com informações e gráficos essenciais do projeto, tais como Profit Margin
 
+![(https://github.com/cesariafrate/Analise-de-Dados-com-Power-BI/blob/680792abe6f0591d9ceedac14256a4b09297a822/dashboard.JPG)] 
 ### Insights
 Resumo das descobertas, como padrões de vendas, comportamentos de clientes, etc.
 
