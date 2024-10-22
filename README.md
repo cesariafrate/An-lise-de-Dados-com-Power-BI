@@ -20,7 +20,7 @@ Neste projeto, utilizei o tutorial "Power BI para Iniciantes" do DataCamp para a
 
 ## Principais Resultados
 ### Dashboard Interativo
-Descrição do que a visualização mostra.
+
 ![image](https://github.com/user-attachments/assets/aefa52da-eb05-49e7-9291-94f4c601fddc)
 
 A imagem mostra um dashboard com informações e gráficos essenciais do projeto, tais como Profit Margin e vendas por produto.
